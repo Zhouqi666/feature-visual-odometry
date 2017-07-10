@@ -1,5 +1,4 @@
 #include "myslam.h"
-#include "camera.h"
 
 //引入数学函数库
 using namespace myslam;
